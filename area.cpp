@@ -6,6 +6,7 @@ int main ()
 
 {
 
+
     double A, B, C;
     double trian, circ, trap, quad, retan;
     double pi;
